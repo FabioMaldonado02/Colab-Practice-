@@ -1,0 +1,25 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+.container {
+  display: flex;
+}
+.row-1 {
+  height: 88.5vh;
+}
+.row {
+  background-color: darkgoldenrod;
+}
+.footer {
+  background-color: aqua;
+
+}
+.nav {
+  background-color: blue;
+}
+.green-col {
+  background-color: green;
+}
+.red-col {
+background-color: crimson;
+}
