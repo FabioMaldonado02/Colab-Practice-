@@ -4,11 +4,15 @@
 .container {
   display: flex;
 }
-.row {
-  height: 90vh;
+.row-1 {
+  height: 88.5vh;
 }
-footer {
+.row {
+  background-color: darkgoldenrod;
+}
+.footer {
   background-color: aqua;
+
 }
 .nav {
   background-color: blue;
