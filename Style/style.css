@@ -4,3 +4,6 @@
 .container {
   display: flex;
 }
+.row {
+  height: 90vh;
+}
