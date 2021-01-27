@@ -4,9 +4,6 @@
 .container {
   display: flex;
 }
-.row-1 {
-  height: 88.5vh;
-}
 .row {
   background-color: darkgoldenrod;
 }
