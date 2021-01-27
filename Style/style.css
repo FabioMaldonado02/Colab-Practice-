@@ -7,3 +7,15 @@
 .row {
   height: 90vh;
 }
+footer {
+  background-color: aqua;
+}
+.nav {
+  background-color: blue;
+}
+.green-col {
+  background-color: green;
+}
+.red-col {
+background-color: crimson;
+}
